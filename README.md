@@ -44,3 +44,7 @@ Now, you're all done! Click on `plotter.py` and click the play button. A .png gr
 ### If you want to do more
 
 Open up TODO.md and check what can be done! That's your job to do. Feel free to add more tasks for the next person to do.
+
+### Acknowledgements:
+
+99.99% of this code, including the entierty of the interesting stuff about creating the graph, was created using ChatGPT. The only thing I did was make the .env files and create documentation.
