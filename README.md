@@ -40,3 +40,7 @@ MIDPOINT - What the center of your colorbar should be. The lower this value is, 
 ``pip3 install -r requirements.txt``
 
 Now, you're all done! Click on `plotter.py` and click the play button. A .png graph will be generated!
+
+### If you want to do more
+
+Open up TODO.md and check what can be done! That's your job to do. Feel free to add more tasks for the next person to do.
